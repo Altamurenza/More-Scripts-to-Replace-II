@@ -7,7 +7,7 @@ FEATURES:
 - Up to 10 Non-STimeCycle scripts can be loaded in "../Scripts/MSR_II/GROUP_03_NonSTC/" folder.
 - Does not require IMG Console or IMG Tools 2.0 to install scripts.
 
-What is Non-STimeCycle scripts? https://bully-board.com/index.php?topic=25984.0
+What is Non-STimeCycle script? https://bully-board.com/index.php?topic=25984.0
 
 Although this mod is not perfect, it is safe to say this can run 20 scripts in pretty much stable condition as long as the installed mods are not conflicting each other. Do not install another game trainer mod if you already have one, they will likely cause a conflict.
 

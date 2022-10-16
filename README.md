@@ -9,13 +9,16 @@ Features:
 
 What is Non-STimeCycle scripts? https://bully-board.com/index.php?topic=25984.0
 
-Tested mods:
+Although this mod is not perfect, it is safe to say this can run 20 scripts in pretty much stable condition as long as the installed mods are not conflicting each other. Do not install another game trainer mod if you already have one, they will likely to cause a conflict.
+
+TESTED MODS:
 - Selector Mod VI by Altamurenza
 - Selector Mod -REMAKE- by Altamurenza
 - Selector Mod 7.0 by Altamurenza
 - Super Mod V3 by derpy54320
 - Super Mod IV by derpy54320
 - Advanced Trainer 1.2 by Altamurenza
+- Not Another Selector V3 by DeadpoolXYZ
 - Selector Mod AE Update 1 by RBS ID
 - Selector Mod AE Update 3 by RBS ID
 - Detachbale Weapon by Altamurenza

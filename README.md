@@ -9,7 +9,7 @@ Features:
 
 What is Non-STimeCycle scripts? https://bully-board.com/index.php?topic=25984.0
 
-Although this mod is not perfect, it is safe to say this can run 20 scripts in pretty much stable condition as long as the installed mods are not conflicting each other. Do not install another game trainer mod if you already have one, they will likely to cause a conflict.
+Although this mod is not perfect, it is safe to say this can run 20 scripts in pretty much stable condition as long as the installed mods are not conflicting each other. Do not install another game trainer mod if you already have one, they will likely cause a conflict.
 
 TESTED MODS:
 - Selector Mod VI by Altamurenza

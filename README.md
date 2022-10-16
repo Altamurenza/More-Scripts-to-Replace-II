@@ -8,3 +8,11 @@ Features:
 - Does not require IMG Console or IMG Tools 2.0 to install scripts.
 
 What is Non-STimeCycle scripts? https://bully-board.com/index.php?topic=25984.0
+
+Tested mods:
+* Selector Mod VI, -REMAKE-, 7.0 by Altamurenza
+* Super Mod V3 and IV by derpy54320
+* Advanced Trainer by Altamurenza
+* Selector Mod AE Update 1 and Update 3 by RBS ID
+* Detachbale Weapon by Altamurenza
+* MP-360 Flamethrower by Altamurenza
